@@ -1,3 +1,3 @@
 # Numpy-InDepth
-An indepth guide to numpy for a beginner.
+Learn to use numpy, the building block library of ML and DL.<br/>
 Use it in jupyter notebook, for best results
